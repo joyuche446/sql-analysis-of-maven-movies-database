@@ -17,4 +17,5 @@ Maven Movies is a DVD rental business with multiple stores, customers, and a lar
 ### Recommendations
 ## Skills Demonstrated:
 ## Next Steps:
+- Build a dashboard (e.g., in Power BI or Tableau) to visualize key metrics and support ongoing business monitoring.
 
