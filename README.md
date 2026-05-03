@@ -16,6 +16,11 @@ Maven Movies is a DVD rental business with multiple stores, customers, and a lar
 ### Insights
 ### Recommendations
 ## Skills Demonstrated:
+- **Advanced SQL:** Multi-table joins, subqueries, UNION, and query optimization
+- **Data Aggregation:** GROUP BY with COUNT, SUM, AVG
+- **Data Modeling:** Understanding relational schema, keys, and table relationships
+- **Data Transformation:** Derived metrics and string manipulation functions
+- **Query Validation:** Cross-checking outputs for accuracy and consistency
 ## Next Steps:
 - Build a dashboard (e.g., in Power BI or Tableau) to visualize key metrics and support ongoing business monitoring.
 
